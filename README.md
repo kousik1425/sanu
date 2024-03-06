@@ -1,0 +1,2 @@
+# sanu
+self indipendent
